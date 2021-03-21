@@ -1,5 +1,10 @@
-# mastering-git-web
+# Markdown 연습
 
-This repository houses a proposed website for the Mastering Git book.
-
-Contact: mwkoo@sogang.ac.kr
+1. 개요
+2. 팀 구성원
+  1. 최규식
+  2. 고서경
+  3. 김연요
+  4. 황두연
+4. 프로젝트 소개
+5. Github
